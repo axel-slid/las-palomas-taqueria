@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://las-palomas-taqueria.vercel.app/sitemap.xml
